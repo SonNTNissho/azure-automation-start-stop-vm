@@ -1,0 +1,1 @@
+<a>https://www.puppeteers.net/blog/modern-cronjob-part-1-azure-automation-with-terraform/</a>
